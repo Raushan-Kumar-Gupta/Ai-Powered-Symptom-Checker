@@ -50,6 +50,9 @@ The chatbot is easy to use, and users can simply type their symptoms in natural 
 
 ## 🏗️ System Architecture
 
+<img width="751" height="390" alt="image" src="https://github.com/user-attachments/assets/65993ff1-a0a6-4a06-a912-484f4d319caf" />
+
+
 ```
 User Input (Regional Language)
         ↓
@@ -155,6 +158,7 @@ The chatbot gave over **97% accuracy** during testing.
 ---
 
 ## 📸 Screenshots
+<img width="880" height="514" alt="image" src="https://github.com/user-attachments/assets/5e07bd00-ca3d-4a5c-8603-60d4ad038cda" />
 
 > Sample: Add screenshots like these in your `screenshots/` folder
 
